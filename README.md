@@ -14,4 +14,4 @@ There are also two remaining files:
 - ‘best_estimator.pkl’ - auxiliary file to transmit data between notebooks 4 and 5.
 - ‘results.csv’ - final predictions
 ## Presentation
-For more details, please read [this presentation]().
+For more details, please read [this presentation](https://github.com/limapedro12/AC_WBNA/blob/master/presentation.pdf).
